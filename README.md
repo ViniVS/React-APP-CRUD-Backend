@@ -19,3 +19,7 @@ Serviços criados:
   - API Gateway
     - Criei uma API Gateway como um portão de entrada para receber os dados, todos utilizam a função GET.
     - Cada chamada tem um resource diferente para o tipo de requisição, integradas com as respectivas funções Lambdas
+    
+Região: US East (N. Virginia) us-east-1
+Bucket name: crud-user
+File: Userlist.csv
